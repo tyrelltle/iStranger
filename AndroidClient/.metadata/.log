@@ -1,0 +1,13 @@
+!SESSION 2013-03-07 20:57:37.999 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.7.0_03
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-03-07 20:59:53.199
+!MESSAGE Failed to load properties file for project 'iStranger'
+
+!ENTRY org.eclipse.ui 4 4 2013-03-07 21:22:10.648
+!MESSAGE Referenced part does not exist yet: org.eclipse.ui.views.ProblemView.
